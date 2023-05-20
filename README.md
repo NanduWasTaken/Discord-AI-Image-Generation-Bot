@@ -19,13 +19,19 @@ Type this into the terminal
 
   TOKEN = "bot_token"
   CLIENT_ID = "bot_id"
+  OPEN_AI_API_KEY = "open_ai_api_key"
   STATUS = "dnd"
   ACTIVITY_NAME = "SCRIBLLING THINGS"
 
 ```
 Replace `bot_token` with your bot token you can obtain your bot token from discord developer portal.
 
-Replace  `bot_id` with your bot's client id.
+Replace `bot_id` with your bot's client id.  
+
+Replace `open_ai_api_key` with your open ai api key. 
+You can generate the key after making a account on 
+[Open AI Website](https://openai.com).
+ You can follow [this](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/) for help.
 _____________________________________________
 
 ### Optional Configuration.
