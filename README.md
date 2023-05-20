@@ -7,7 +7,7 @@ Available commands:-
 
 # Forking the github respository
 Type this into the terminal
-`git clone https://github.com/NanduWasTaken/DiscordBot-Slash-Commands.git`
+`git clone https://github.com/NanduWasTaken/Disc.git`
 
 # Setting Up Env File.
 ```js
