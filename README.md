@@ -2,12 +2,7 @@
 A simple discord bot equiped with slash command & event handlers to start your journey.  
 Available commands:-
 
-/avatar:- shows users avatar.  
-/option:- echo backs a message.  
-/ping:- replies with pong.  
-/prune:- deletes a specfic amount of messages.  
-/server:- shows server info.  
-/user:- shows user info.  
+
 
 
 # Forking the github respository
@@ -40,10 +35,11 @@ Status name can be changed by changing the `SCRIBLLING THINGS` with whatever you
 Status `dnd` can be changed into 'dnd', 'idle', 'online' and 'invinsible'.  
 If you want to change your activity type of your bot go into ready.js in events folder and change it.  
 
-# Deleting Your Commands.
-To delete one of your slash commands you have delete the command file which is located in the commands directory then restart the bot.  
-Note: Your Slash Command Registers/Reloads Automatically When Your Bot Starts.
 
 # Starting Your Bot
 To start your bot.
-Type `node index.js` into your terminal.
+Type `node index.js` into your terminal.  
+### Now Try Out Your /image Command!
+
+# Credit 
+This Repository is made from [this](https://github.com/NanduWasTaken/DiscordBot-Slash-Commands).
